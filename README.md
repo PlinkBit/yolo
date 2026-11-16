@@ -33,6 +33,10 @@ Inspired by *Bolo* (1982) for the Apple II, created by Jim Lane and published by
 
 Code, procedural graphics, sound effects and music built with AI assistance. Design, direction, tuning and testing by PlinkBit.
 
+## Contact
+
+Feedback, bug reports and permission requests: plinkbit@gmail.com
+
 ## Copyright
 
 Copyright (c) 2026 PlinkBit. All rights reserved. See [LICENSE](LICENSE).
